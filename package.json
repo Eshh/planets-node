@@ -1,0 +1,28 @@
+{
+  "name": "planets-node",
+  "version": "1.0.0",
+  "description": "A nodejs project to parse kepler nasa data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eshh/planets-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "nasa",
+    "kepler",
+    "csv"
+  ],
+  "author": "eswar-prasad-kona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eshh/planets-node/issues"
+  },
+  "homepage": "https://github.com/Eshh/planets-node#readme",
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
+}
